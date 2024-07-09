@@ -6,7 +6,7 @@
 </p>
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
@@ -14,17 +14,11 @@
 - 趣味はアニメ、ゲーム、ギター、ランニング
 - 日本語勉強中
 
-<br><br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## **Technologies**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,firebase,github,html,js,nextjs,nodejs,postman,react,tailwind,ts,vscode,windows,wordpress&perline=8" />
   </a>
 </p>
 
